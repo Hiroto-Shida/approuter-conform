@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#2063aa",
+    "activityBar.activeBorder": "#FCD006",
+    "activityBar.background": "#2063aa",
+    "activityBar.foreground": "#FCD006",
+    "activityBar.inactiveForeground": "#EBECF299",
+    "activityBarBadge.background": "#FCD006",
+    "activityBarBadge.foreground": "#15202b"
+  }
+}
